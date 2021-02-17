@@ -49,7 +49,7 @@ const HomePage = (props) => {
   function handleSort(sortOrder) {
     setSortOrder(sortOrder);
     if (sortOrder.value) {
-      setUsers(_.orderBy(users, ['age'], [sortOrder.value]));
+      setUsers(_.orderBy(users, ['country'], [sortOrder.value]));
     }
   }
 

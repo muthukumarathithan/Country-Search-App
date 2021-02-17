@@ -1,0 +1,74 @@
+[
+  {
+    "country": "India",
+    "captial":"Delhi",
+    "population":"14,200,004",
+    "flag":"https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png"
+  },
+  {
+    "country": "Pakistan",
+    "captial":"Lahor",
+    "population":"14,700",
+    "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/23px-Flag_of_Pakistan.svg.png"
+  },
+  {
+     "country": "Qatar",
+     "captial":"Dawlat Qatar",
+     "population":"14,004",
+     "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/23px-Flag_of_Qatar.svg.png"
+  },
+  {
+     "country": "Oman",
+    "captial":"Saltanat Uman",
+    "population":"100,004",
+    "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/23px-Flag_of_Oman.svg.png"
+  },
+  {
+     "country": "Norway",
+    "captial":"Norge",
+    "population":"20,004",
+    "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png"
+  },
+  {
+     "country": "SriLanka",
+    "captial":"Sri Jayawardenapura",
+    "population":"14,200",
+    "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/23px-Flag_of_Sri_Lanka.svg.png"
+  },
+  {
+     "country": "Bahrain",
+    "captial":"Manama",
+    "population":"5,200",
+    "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/23px-Flag_of_Bahrain.svg.png"
+  },
+  {
+     "country": "Colombia",
+    "captial":"Bogotá",
+    "population":"4,20,004",
+    "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png"
+  },
+  {
+     "country": "Egypt",
+    "captial":"Cairo",
+    "population":"1,30,004",
+    "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png"
+  },
+  {
+     "country": "Germany",
+    "captial":"Berlin",
+    "population":"14,20,004",
+    "flag":"https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png"
+  },
+  {
+     "country": "Iran",
+    "captial":"Tehran",
+    "population":"12,200",
+    "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/23px-Flag_of_Iran.svg.png"
+  },
+  {
+     "country": "Ireland",
+    "captial":"Dublin",
+    "population":"11,200",
+    "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/21px-Flag_of_Iceland.svg.png"
+  }
+  ]
